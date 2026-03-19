@@ -58,9 +58,9 @@
 ### CVR Task Performance
 
 <caption><strong>Table 1.</strong> Performance comparison on the test set of the CVR dataset, WebVid-CoVR, relative to R@k(%). The overall best results are in bold, while the best results over baselines are underlined.</caption>
-
-![](./assets/results-CVR.png)
-
+<div align="center">
+<img src="assets/results-CVR.png" alt="HUD architecture" width="500">
+</div>
 
 ### CIR Task Performance
 <caption><strong>Table 2.</strong> Performance comparison on the CIR datasets, FashionIQ and CIRR, relative to R@k(%). The overall best results are in bold, while the best results over baselines are underlined.</caption>
