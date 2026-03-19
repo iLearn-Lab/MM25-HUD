@@ -287,3 +287,23 @@ We welcome all forms of contributions\! If you have any questions, ideas, or fin
 
 [⬆ Back to top](#top)
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500" alt="HUD Demo">
+
+  <br><br>
+
+  <a href="https://github.com/ZivChen-Ty/HUD">
+    <img src="https://img.shields.io/badge/⭐_Star_US-000000?style=for-the-badge&logo=github&logoColor=00D9FF" alt="Star">
+  </a>
+  <a href="https://github.com/ZivChen-Ty/HUD/issues">
+    <img src="https://img.shields.io/badge/🐛_Report_Issues-000000?style=for-the-badge&logo=github&logoColor=FF6B6B" alt="Issues">
+  </a>
+  <a href="https://github.com/ZivChen-Ty/HUD/pulls">
+    <img src="https://img.shields.io/badge/🧐_Pull_Requests-000000?style=for-the-badge&logo=github&logoColor=4ECDC4" alt="Pull Request">
+  </a>
+
+  <br><br>
+<a href="https://github.com/ZivChen-Ty/HUD">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Thank+you+for+visiting+HUD!;Looking+forward+to+your+attention!" alt="Typing SVG">
+  </a>
+</div>
