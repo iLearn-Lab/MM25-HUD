@@ -1,0 +1,5 @@
+name: blip2-pretrain
+
+path: "https://storage.googleapis.com/sfr-vision-language-research/LAVIS/models/BLIP2/blip2_pretrained.pth"
+# path: "./CoVR/CoVR/outputs/cirr/blip2-coco-proto/blip2-pretrain/tv-False_loss-hnnce_lr-5e-05/cirr_resizedimages_frame1_tmp_mlp_bs128_finegrained_uncertaintySample2_WithMultimodal_NoSoftmax/ckpt_1.ckpt"
+image_size: 224

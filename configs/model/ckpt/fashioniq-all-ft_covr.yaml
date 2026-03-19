@@ -1,0 +1,5 @@
+name: fashioniq-all-ft_covr
+
+path: ./CoVR/CoVR/outputs/fashioniq-all/blip2-coco-proto/blip2-pretrain/tv-False_loss-hnnce_lr-1e-05/fiq_resizedimages_frame1_tmp_mlp_bs128_finegrained_uncertaintySample16_WithMultimodal/ckpt_1.ckpt
+
+image_size: 224

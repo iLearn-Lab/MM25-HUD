@@ -1,0 +1,24 @@
+dataname: cirr
+_target_: src.data.cirr.CIRRDataModule
+
+# Paths
+dataset_dir:  ./data/CIR_data/cirr_data/CIRR/
+vid_query_method: middle
+vid_frames: 1
+
+batch_size: ${machine.batch_size}
+num_workers: ${machine.num_workers}
+
+annotation:  ./data/CIR_data/cirr_data/CIRR/
+#   train: ./data/CIR_data/cirr_data/CIRR/captions/cap.rc2.train.json
+#   val: ./data/CIR_data/cirr_data/CIRR/captions/cap.rc2.val.json
+
+img_dirs:
+  train: ./data/CIR_data/cirr_data/CIRR/train/
+  val: ./data/CIR_data/cirr_data/CIRR/dev/
+
+emb_dirs:
+  train: ${data.dataset_dir}/${model.basemodel}-embs-large/train
+  val: ${data.dataset_dir}/${model.basemodel}-embs-large/dev
+
+image_size: ${model.ckpt.image_size}

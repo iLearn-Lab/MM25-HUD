@@ -1,0 +1,5 @@
+name: blip2-l-coco
+
+path: "https://storage.googleapis.com/sfr-vision-language-research/LAVIS/models/BLIP2/blip2_finetune_coco.pth"
+# path: "./CoVR/CoVR/outputs/webvid-covr/blip2-coco-proto/blip2-l-coco/tv-False_loss-hnnce_lr-2e-05/frame1_FinalTest_V2_Sample4_TargetNoUncertainty_ALL/ckpt_0.ckpt"
+image_size: 364

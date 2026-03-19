@@ -1,0 +1,6 @@
+name: webvid-covr
+
+path: ./CoVR/CoVR/outputs/webvid-covr/blip2-coco-proto/blip2-l-coco/tv-False_loss-hnnce_lr-2e-05/frame1_FinalTest_V2_Sample4_TargetNoUncertainty_ALL/ckpt_0.ckpt
+# path: ./CoVR/CoVR/outputs/webvid-covr/blip2-coco-proto/blip2-l-coco/tv-False_loss-hnnce_lr-4e-06/wo_all_loss/ckpt_1.ckpt
+
+image_size: 364
