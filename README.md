@@ -3,6 +3,19 @@
 <div align="center">
  <img src="./assets/logo.png" width="300"> 
   <h1>📹 (ACM MM 2025) HUD: Hierarchical Uncertainty-Aware Disambiguation Network for Composed Video Retrieval</h1>
+  <div align="center">
+  <a target="_blank" href="https://zivchen-ty.github.io/">Zhiwei&#160;Chen</a><sup>1</sup>,
+  <a target="_blank" href="https://faculty.sdu.edu.cn/huyupeng1/zh_CN/index.htm">Yupeng&#160;Hu</a><sup>1&#9993</sup>,
+  <a target="_blank" href="https://lee-zixu.github.io/">Zixu&#160;Li</a><sup>1</sup>,
+  <a target="_blank" href="https://zhihfu.github.io/">Zhiheng&#160;Fu</a><sup>1</sup>,
+  <a target="_blank" href="https://haokunwen.github.io">Haokun&#160;Wen</a><sup>2</sup>,
+  <a target="_blank" href="https://homepage.hit.edu.cn/guanweili">Weili&#160;Guan</a><sup>2</sup>
+  </div>
+  <sup>1</sup>School of Software, Shandong University &#160&#160&#160</span>
+  <br />
+ <sup>2</sup>School of Computer Science and Technology, Harbin Institute of Technology (Shenzhen), &#160&#160&#160</span>  <br />
+  <sup>&#9993&#160;</sup>Corresponding author&#160;&#160;</span>
+  <br/>
   
   <p>
     <a href="https://acmmm2025.org/"><img src="https://img.shields.io/badge/ACM_MM-2025-blue.svg?style=flat-square" alt="ACM MM 2025"></a>
